@@ -1,1 +1,7 @@
+<<<<<< HEAD
 This is confusing
+=======
+
+Testing with 12321
+Adding new line to test changes during rebase
+>>>>>>> 1127582 (testing rebasing with test2)
