@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<< HEAD
 This is confusing
-=======
-
-Testing with 12321
-Adding new line to test changes during rebase
->>>>>>> 1127582 (testing rebasing with test2)
-=======
-
-Testing with 12321
-Adding new line to test changes during rebase
->>>>>>> 11275828118e6e42da1938e328ec763b88ea65e1

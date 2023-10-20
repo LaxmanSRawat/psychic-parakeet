@@ -1,6 +1,2 @@
 Adding some text to file to test git diff
-<<<<<<< HEAD
 Adding some changes to test conflicts during rebase
-=======
-Adding some changes to test conflicts during rebase
->>>>>>> 11275828118e6e42da1938e328ec763b88ea65e1
