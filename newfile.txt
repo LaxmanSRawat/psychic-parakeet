@@ -1,3 +1,1 @@
-This is confusing
-Adding one more line for testing merge conflict again - resolved merge conflict
-New line ite shouldn't cause merge conflict
+testing out git diff
